@@ -1,7 +1,14 @@
-dblp.dtd
-dblp.xml
-dblp_new_head.xml
-sample.xml
+data/dblp.dtd
+data/dblp.xml
+data/dblp_new_head.xml
+data/new_head.xml
+data/sample.xml
 
 
 .ipynb_checkpoints
+
+Commands.txt
+
+retrievingChildTag_Copy.ipynb
+writingCSV_Copy.ipynb
+SAX_test.ipynb
