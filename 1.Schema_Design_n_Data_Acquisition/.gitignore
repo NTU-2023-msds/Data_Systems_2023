@@ -4,6 +4,8 @@ data/dblp_new_head.xml
 data/new_head.xml
 data/sample.xml
 
+output/
+
 
 .ipynb_checkpoints
 
